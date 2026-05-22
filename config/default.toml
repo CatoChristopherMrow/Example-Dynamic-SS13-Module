@@ -1,0 +1,5 @@
+configured_value = 42
+
+[messages]
+status_prefix = "Example Dynamic Module"
+
