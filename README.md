@@ -27,3 +27,6 @@ From a host repo that has Dynamic SS13 Modules configured:
 git submodule add https://github.com/CatoChristopherMrow/Example-Dynamic-SS13-Module.git dynamic_modules/installed/example-dynamic-module
 python3 tools/dynamic_modules/prepare.py
 ```
+
+The module targets Dynamic SS13 Modules 1.0 and is intentionally kept boring:
+normal DM source, config defaults, and one unit test.
